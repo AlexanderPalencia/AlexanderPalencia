@@ -5,9 +5,9 @@
 **👨🏻‍💻 Working on: [Tritio](https://github.com/TritioDev)**
 
 **💬 Ask me about:**
--  lockchain
+-  Blockchain
 -  Smart Contracts
--  cybersecurity
+-  Cybersecurity
 -  JS
 
 **I am currently brushing up my skills :punch: :muscle:**
