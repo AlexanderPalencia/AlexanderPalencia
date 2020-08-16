@@ -4,11 +4,11 @@
 
 **👨🏻‍💻 Working on: [Tritio](https://github.com/TritioDev)**
 
-**💬 Ask me about**
-- :see_no_evil: lockchain
-- :see_no_evil: Smart Contracts
-- :see_no_evil: cybersecurity
-- :see_no_evil: JS
+**💬 Ask me about:**
+-  lockchain
+-  Smart Contracts
+-  cybersecurity
+-  JS
 
 **I am currently brushing up my skills :punch: :muscle:**
 
